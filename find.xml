@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.ts, *.js</mask>
+    <mask>*.cs,</mask>
+    <mask>*.ts, *.shtml</mask>
+    <mask>*.scss, *.html</mask>
+    <mask>*.cs, *.ts</mask>
+    <mask>*.cs,</mask>
+    <mask>*.CS</mask>
+    <mask>*.ts, *.html, *.scss</mask>
+    <mask>*.js, *.cshtml</mask>
+    <mask>*.service.ts</mask>
+    <mask>*.scss, *.ts</mask>
+    <mask>*.html, *.ts</mask>
+    <mask>*.html, *.ts, *.cs</mask>
+    <mask>*.ts,</mask>
+    <mask>*.js</mask>
+    <mask>*.sql</mask>
+    <mask>*.js, *.cshtml, *.ts</mask>
+    <mask>*.cshtml, *.js</mask>
+    <mask>*.cshtml, *.js, *.ts</mask>
+    <mask>*.cshtml, *.html</mask>
+    <mask>*.scss</mask>
+    <mask>*.module.ts</mask>
+    <mask>*.cshtml</mask>
+    <mask>*.cshtml, *.cs</mask>
+    <mask>*.html</mask>
+    <mask>*.js, * .cshtml</mask>
+    <mask>*.ts, *.html</mask>
+    <mask>*.ts, *.html, *.js, *.config</mask>
+    <mask>*.cs</mask>
+    <mask>*.ts</mask>
+  </component>
+</application>

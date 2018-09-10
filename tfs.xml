@@ -1,0 +1,28 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <server uri="http://tfs.healthtech.net/tfs/AHT/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>AMHT</domain>
+              <password />
+              <username>khamilton</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+      <server uri="http://tfs.healthtech.net:8080/tfs/aht/">
+        <configuration>
+          <credentials>
+            <credentials type="NtlmNative">
+              <domain>AMHT</domain>
+              <password />
+              <username>khamilton</username>
+            </credentials>
+          </credentials>
+        </configuration>
+      </server>
+    </option>
+  </component>
+</application>
