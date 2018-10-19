@@ -3,9 +3,11 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.cs,</mask>
     <mask>*.ts, *.shtml</mask>
     <mask>*.scss, *.html</mask>
@@ -32,9 +34,9 @@
     <mask>*.ts, *.html, *.js, *.config</mask>
     <mask>*.component.ts</mask>
     <mask>*.cs</mask>
-    <mask>*.ts</mask>
     <mask>*.ts, *.html</mask>
     <mask>*.cshtml, *.js</mask>
     <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
