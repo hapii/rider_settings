@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.ts, *.html, *.scss" />
-    <mask>*.cs,</mask>
+    <option name="FILE_MASK" value="*.ts, *.html, *.scss, *.js" />
     <mask>*.ts, *.shtml</mask>
     <mask>*.scss, *.html</mask>
     <mask>*.cs, *.ts</mask>
@@ -36,5 +35,6 @@
     <mask>*.ts</mask>
     <mask>*.ts, *.html</mask>
     <mask>*.ts, *.html, *.scss</mask>
+    <mask>*.ts, *.html, *.scss, *.js</mask>
   </component>
 </application>
