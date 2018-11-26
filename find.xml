@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.html, *.ts" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.scss, *.html</mask>
     <mask>*.cs, *.ts</mask>
     <mask>*.cs,</mask>
@@ -15,7 +15,6 @@
     <mask>*.html, *.ts, *.cs</mask>
     <mask>*.ts,</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.js, *.cshtml, *.ts</mask>
     <mask>*.cshtml, *.js, *.ts</mask>
     <mask>*.cshtml, *.html</mask>
@@ -36,5 +35,6 @@
     <mask>*.ts, *.html</mask>
     <mask>*.html</mask>
     <mask>*.html, *.ts</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
