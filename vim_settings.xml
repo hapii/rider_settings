@@ -1,0 +1,49 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/tfs/WorkCenter/Maverick/AHT.Core.UI/src/app/modules/mailbox/mailbox-folderdetails/mailbox-folderdetails.component.html" timestamp="1543852895265">
+        <mark key="[" line="116" column="45" />
+        <mark key="]" line="116" column="45" />
+        <mark key="^" line="116" column="45" />
+        <mark key="." line="116" column="45" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>/ngx</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>ngx</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ngx</last-search>
+      <last-offset />
+      <last-pattern>ngx</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>ngx</entry>
+      </history-search>
+      <history-cmd>
+        <entry>/ngx</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
