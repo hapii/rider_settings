@@ -1,65 +1,13 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net/tfs/AHT" />
-          <option name="serverUri" value="http://tfs.healthtech.net/tfs/AHT" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net:8080/tfs" />
-          <option name="serverUri" value="http://tfs.healthtech.net:8080/tfs" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net/tfs/AHT/_git/console-prototype" />
-          <option name="serverUri" value="http://tfs.healthtech.net/tfs" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b0fc0e73-9b3e-4824-bde4-11d818d81dcc&quot;,&quot;name&quot;:&quot;console-prototype&quot;,&quot;revision&quot;:3060917,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/b0fc0e73-9b3e-4824-bde4-11d818d81dcc&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;a1f43cb7-5671-4470-b8fe-5637f273da38&quot;,&quot;name&quot;:&quot;console-prototype&quot;,&quot;remoteUrl&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_git/console-prototype&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/git/repositories/a1f43cb7-5671-4470-b8fe-5637f273da38&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;b0fc0e73-9b3e-4824-bde4-11d818d81dcc&quot;,&quot;name&quot;:&quot;console-prototype&quot;,&quot;revision&quot;:3060917,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/b0fc0e73-9b3e-4824-bde4-11d818d81dcc&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;revision&quot;:3060964,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;3f07b2b8-3dd9-438f-81a7-7269b8012451&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;remoteUrl&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_git/AHT.Scheduler&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/git/repositories/3f07b2b8-3dd9-438f-81a7-7269b8012451&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;revision&quot;:3060964,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net:8080/tfs/aht/" />
-          <option name="serverUri" value="http://tfs.healthtech.net:8080/tfs/" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/aht/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;10589465-b69d-4765-b3d5-f189edf518c9&quot;,&quot;name&quot;:&quot;WorkCenter&quot;,&quot;revision&quot;:3060788,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/10589465-b69d-4765-b3d5-f189edf518c9&quot;}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net/tfs/AHT/_git/AHT.Scheduler" />
-          <option name="serverUri" value="http://tfs.healthtech.net:8080/tfs" />
-          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;revision&quot;:3060964,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;}" />
-          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;3f07b2b8-3dd9-438f-81a7-7269b8012451&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;remoteUrl&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_git/AHT.Scheduler&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/git/repositories/3f07b2b8-3dd9-438f-81a7-7269b8012451&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;,&quot;name&quot;:&quot;AHT.Scheduler&quot;,&quot;revision&quot;:3060964,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/a34b6b2a-4ee9-47f1-9061-aa31e55f26f6&quot;},&quot;_links&quot;:null}" />
-        </ServerContextState>
-      </array>
+      <array />
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="tfHome" />
-          <option name="value" value="C:\Users\khamilton\Documents\TEE-CLC-14.134.0\tf.cmd" />
+          <option name="value" value="C:\Users\khamilton\TEE-CLC\TEE-CLC-14.134.0\tf.cmd" />
         </PropertyState>
         <PropertyState>
           <option name="name" value="repoRoot" />
