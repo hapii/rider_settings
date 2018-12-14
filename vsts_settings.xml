@@ -15,7 +15,15 @@
           <option name="uri" value="http://_TFS_LAST_USED_URL_" />
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
           <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/aht/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;10589465-b69d-4765-b3d5-f189edf518c9&quot;,&quot;name&quot;:&quot;WorkCenter&quot;,&quot;revision&quot;:3060788,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/10589465-b69d-4765-b3d5-f189edf518c9&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="TFS" />
+          <option name="uri" value="http://tfs.healthtech.net:8080/tfs/aht/" />
+          <option name="serverUri" value="http://tfs.healthtech.net:8080/tfs/" />
+          <option name="userId" value="fb7b16bf-240f-4ee0-95ad-a6a640c17cbe" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net:8080/tfs/aht/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;10589465-b69d-4765-b3d5-f189edf518c9&quot;,&quot;name&quot;:&quot;WorkCenter&quot;,&quot;revision&quot;:3060788,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/10589465-b69d-4765-b3d5-f189edf518c9&quot;}" />
         </ServerContextState>
       </array>
