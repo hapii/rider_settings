@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.ts, *.html" />
+    <option name="FILE_MASK" value="*.ts, *.html, *.scss" />
     <mask>*.html, *.ts, *.cs</mask>
     <mask>*.ts,</mask>
     <mask>*.js</mask>
@@ -19,7 +19,6 @@
     <mask>*.ts, *.html, *.js, *.config</mask>
     <mask>*.component.ts</mask>
     <mask>*.cshtml, *.js</mask>
-    <mask>*.ts, *.html, *.scss</mask>
     <mask>*.ts, *.html, *.scss, *.js</mask>
     <mask>*.ts, *.html, *.scss,</mask>
     <mask>*.js, *.cshtml</mask>
@@ -36,5 +35,6 @@
     <mask>*.cs</mask>
     <mask>*.html</mask>
     <mask>*.ts, *.html</mask>
+    <mask>*.ts, *.html, *.scss</mask>
   </component>
 </application>
