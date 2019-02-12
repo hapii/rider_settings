@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -46,7 +46,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Services'</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UI'">
@@ -86,7 +86,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
     </option>
