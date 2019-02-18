@@ -6,7 +6,15 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -14,7 +22,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
