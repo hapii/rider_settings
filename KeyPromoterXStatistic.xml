@@ -54,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Derived Symbols">
@@ -86,7 +86,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Properties...</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -134,7 +134,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
     </option>
