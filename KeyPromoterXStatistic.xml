@@ -150,7 +150,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Services'">
@@ -158,7 +158,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Services'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UI'">
@@ -166,7 +166,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UI'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -174,6 +174,14 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Ctrl+;, R' or 'Ctrl+;, Ctrl+R'</ShortCut>
           <Description>Run Unit Tests</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Active Changelist">
+        <Item>
+          <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
+          <ShortCut>'Ctrl+Space'</ShortCut>
+          <Description>Set Active Changelist</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -206,7 +214,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
