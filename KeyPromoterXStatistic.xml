@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Services'</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UI'">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UI'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -278,7 +278,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
     </option>
