@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>32</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Services'">
@@ -62,7 +62,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>21</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UI'">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>61</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -158,7 +158,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>40</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -238,7 +238,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Services'">
