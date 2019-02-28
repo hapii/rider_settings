@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '...\Business\AHT.Business\ContentManager\BLSurveyPrint.cs'" />
+    <option name="defaultScopeName" value="File '...\Business\AHT.Business\ContentManager\BLSurveyPrint.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Business\AHT.Business\ContentManager\BLSurveyPrint.cs'" />
     <mask>*.cshtml, *.html</mask>
     <mask>*.module.ts</mask>
     <mask>*.cshtml</mask>
