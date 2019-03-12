@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -38,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UI'</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>312</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -134,6 +134,14 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -206,7 +214,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>242</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -310,7 +318,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
