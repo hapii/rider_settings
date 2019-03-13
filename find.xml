@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.cshtml" />
     <mask>*.cshtml, *.html</mask>
     <mask>*.module.ts</mask>
     <mask>*.cshtml, *.cs</mask>
@@ -31,8 +33,8 @@
     <mask>*.js, *.cshtml</mask>
     <mask>*.ts, *.html</mask>
     <mask>*.ts</mask>
-    <mask>*.cshtml</mask>
     <mask>*.cshtml, *.js</mask>
     <mask>*.scss</mask>
+    <mask>*.cshtml</mask>
   </component>
 </application>
