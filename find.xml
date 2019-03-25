@@ -20,7 +20,6 @@
     <mask>*.ts, *.html, *.scss</mask>
     <mask>*.config</mask>
     <mask>*.js, *.ts</mask>
-    <mask>*.html</mask>
     <mask>*.ts, *.cshtml</mask>
     <mask>*.ts, *.js, *.cshtml</mask>
     <mask>*.cs, *.cshtml</mask>
@@ -33,5 +32,6 @@
     <mask>*.cshtml, *.js</mask>
     <mask>*.scss</mask>
     <mask>*.cshtml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
