@@ -3,7 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>*.cshtml, *.html</mask>
+    <option name="FILE_MASK" value="*.scss, *.css" />
     <mask>*.module.ts</mask>
     <mask>*.cshtml, *.cs</mask>
     <mask>*.js, * .cshtml</mask>
@@ -33,5 +33,6 @@
     <mask>*.scss</mask>
     <mask>*.cshtml</mask>
     <mask>*.html</mask>
+    <mask>*.scss, *.css</mask>
   </component>
 </application>
