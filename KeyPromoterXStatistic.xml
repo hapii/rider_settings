@@ -46,7 +46,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare</Description>
-          <Count>13</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
