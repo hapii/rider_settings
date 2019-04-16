@@ -294,7 +294,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>958</Count>
+          <Count>959</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -510,7 +510,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>98</Count>
+          <Count>99</Count>
         </Item>
       </Statistic>
     </option>
