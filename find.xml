@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.config" />
     <mask>*.ts, *.html, *.js, *.config</mask>
     <mask>*.component.ts</mask>
     <mask>*.ts, *.html, *.scss, *.js</mask>
