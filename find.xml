@@ -13,7 +13,6 @@
     <mask>*.csproj</mask>
     <mask>*.ts, *.scss</mask>
     <mask>*.ts, *.html, *.scss</mask>
-    <mask>*.config</mask>
     <mask>*.js, *.ts</mask>
     <mask>*.ts, *.cshtml</mask>
     <mask>*.ts, *.js, *.cshtml</mask>
@@ -33,5 +32,6 @@
     <mask>*.cs, *.csproj</mask>
     <mask>*.html, *.scss, *.css</mask>
     <mask>*.scss, *.css</mask>
+    <mask>*.config</mask>
   </component>
 </application>
