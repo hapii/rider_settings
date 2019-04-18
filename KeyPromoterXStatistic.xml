@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UI'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UI'</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
