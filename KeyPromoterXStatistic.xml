@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>137</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UI'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UI'</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -382,7 +382,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>88</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -462,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -518,7 +518,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>102</Count>
+          <Count>103</Count>
         </Item>
       </Statistic>
     </option>
