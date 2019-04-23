@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>304</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -302,7 +302,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback...</Description>
-          <Count>16</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -374,7 +374,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>24</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -406,7 +406,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'Ctrl+Shift+O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>26</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -518,7 +518,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>106</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
     </option>
