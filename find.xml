@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.ts, *.html, *.js, *.config</mask>
     <mask>*.component.ts</mask>
     <mask>*.ts, *.html, *.scss, *.js</mask>
@@ -26,7 +25,6 @@
     <mask>*.ts, *.js</mask>
     <mask>*.html</mask>
     <mask>*.html, *.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.cs</mask>
     <mask>*.cs, *.cshtml</mask>
@@ -35,5 +33,6 @@
     <mask>*.html, *.scss, *.css</mask>
     <mask>*.scss, *.css</mask>
     <mask>*.config</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
