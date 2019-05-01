@@ -8,7 +8,9 @@
       <debugger id="dotnet_debugger">
         <configuration>
           <option name="allowTypingDuringDebug" value="true" />
+          <option name="breakOnUserUnhandledExceptions" value="true" />
           <option name="enableExternalSourceDebug" value="false" />
+          <option name="processExceptionsOutsideMyCode" value="true" />
           <option name="remappedSourceLocationsMap">
             <map />
           </option>
