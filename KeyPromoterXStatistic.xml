@@ -393,6 +393,14 @@
           <Count>106</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Intention Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Show Intention Actions</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Local Changes as UML">
         <Item>
           <IdeaActionID>UML.ShowChanges</IdeaActionID>
