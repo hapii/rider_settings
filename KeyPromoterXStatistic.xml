@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1136</Count>
+          <Count>1137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -382,7 +382,7 @@
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
           <ShortCut>'Ctrl+Space'</ShortCut>
           <Description>Set Active Changelist</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
     </option>
