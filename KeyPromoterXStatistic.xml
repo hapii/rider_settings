@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>350</Count>
+          <Count>353</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -86,7 +86,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>769</Count>
+          <Count>777</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1139</Count>
+          <Count>1140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -382,7 +382,7 @@
           <IdeaActionID>ChangesView.SetDefault</IdeaActionID>
           <ShortCut>'Ctrl+Space'</ShortCut>
           <Description>Set Active Changelist</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -518,7 +518,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>38</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>131</Count>
+          <Count>132</Count>
         </Item>
       </Statistic>
     </option>
