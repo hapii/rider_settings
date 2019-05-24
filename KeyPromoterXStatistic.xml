@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>179</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UI'">
@@ -310,7 +310,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>1155</Count>
+          <Count>1180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rollback...">
@@ -398,7 +398,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Intention Actions">
@@ -406,7 +406,7 @@
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Intention Actions</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -454,7 +454,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>434</Count>
+          <Count>435</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -542,7 +542,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>134</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
     </option>
