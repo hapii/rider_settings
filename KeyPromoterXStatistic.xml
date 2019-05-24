@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>355</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -198,7 +198,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -230,7 +230,7 @@
           <IdeaActionID>EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Jump to Source</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Statement">
@@ -401,6 +401,14 @@
           <Count>111</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Diff as UML">
+        <Item>
+          <IdeaActionID>Uml.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Show Diff as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Intention Actions">
         <Item>
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
@@ -486,7 +494,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>101</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -526,7 +534,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -542,7 +550,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
     </option>
