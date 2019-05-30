@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>186</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'UI'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UI'</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>789</Count>
+          <Count>794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -494,7 +494,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -550,7 +550,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
     </option>
