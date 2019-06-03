@@ -14,7 +14,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>360</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>795</Count>
+          <Count>797</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -342,7 +342,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Services'</Description>
-          <Count>58</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UI'">
@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UI'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -414,7 +414,7 @@
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Intention Actions</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -494,7 +494,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>108</Count>
+          <Count>109</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
