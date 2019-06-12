@@ -14,17 +14,9 @@
           <option name="type" value="TFS" />
           <option name="uri" value="http://_TFS_LAST_USED_URL_" />
           <option name="serverUri" value="http://_TFS_LAST_USED_URL_" />
-          <option name="userId" value="1b795f96-0f5b-4cc3-837e-e60ac570e46d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
-          <option name="type" value="TFS" />
-          <option name="uri" value="http://tfs.healthtech.net/tfs" />
-          <option name="serverUri" value="http://tfs.healthtech.net/tfs" />
-          <option name="userId" value="1b795f96-0f5b-4cc3-837e-e60ac570e46d" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+          <option name="userId" value="2debd77d-c24b-47c3-8752-35e71dfa5012" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;,&quot;name&quot;:&quot;AHT&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/aht/_apis/projectCollections/5da791ad-f79e-49f5-95c3-58eea3b322a1&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;10589465-b69d-4765-b3d5-f189edf518c9&quot;,&quot;name&quot;:&quot;WorkCenter&quot;,&quot;revision&quot;:3060788,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;http://tfs.healthtech.net/tfs/AHT/_apis/projects/10589465-b69d-4765-b3d5-f189edf518c9&quot;}" />
         </ServerContextState>
       </array>
     </option>
