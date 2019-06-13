@@ -9,14 +9,6 @@
           <Count>8</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Back">
-        <Item>
-          <IdeaActionID>Back</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Left'</ShortCut>
-          <Description>Back</Description>
-          <Count>427</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Build">
         <Item>
           <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
@@ -86,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Component Declaration</Description>
-          <Count>123</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -145,14 +137,6 @@
           <Count>209</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Debug 'UI'">
-        <Item>
-          <IdeaActionID>Debug</IdeaActionID>
-          <ShortCut>'Shift+F9'</ShortCut>
-          <Description>Debug 'UI'</Description>
-          <Count>166</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -174,7 +158,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Derived Symbols</Description>
-          <Count>121</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -575,6 +559,24 @@
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
           <Count>159</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left'</ShortCut>
+          <Description>Back</Description>
+          <Count>429</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'UI'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'UI'</Description>
+          <Count>166</Count>
         </Item>
       </Statistic>
     </option>
