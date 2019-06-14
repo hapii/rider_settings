@@ -3,7 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>*.ts, *.html, *.scss, *.js</mask>
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.ts, *.html, *.scss,</mask>
     <mask>*.html, *.ts</mask>
     <mask>*.sql</mask>
@@ -28,10 +28,11 @@
     <mask>*.scss, *.css</mask>
     <mask>*.config</mask>
     <mask>*.cs</mask>
-    <mask>*.ts</mask>
     <mask>*.config, *.csproj</mask>
     <mask>*.cshtml</mask>
     <mask>*.scss</mask>
     <mask>!*.sql</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
   </component>
 </application>
