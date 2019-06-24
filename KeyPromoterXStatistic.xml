@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Component Declaration</Description>
-          <Count>181</Count>
+          <Count>184</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -313,14 +313,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Resume Program">
-        <Item>
-          <IdeaActionID>Resume</IdeaActionID>
-          <ShortCut>'F9'</ShortCut>
-          <Description>Resume Program</Description>
-          <Count>1285</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Rollback...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
@@ -470,7 +462,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>461</Count>
+          <Count>464</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -577,6 +569,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'UI'</Description>
           <Count>166</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>1289</Count>
         </Item>
       </Statistic>
     </option>
