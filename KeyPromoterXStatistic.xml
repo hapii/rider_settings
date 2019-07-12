@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>229</Count>
+          <Count>232</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -502,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -537,28 +537,12 @@
           <Count>47</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Update Project...">
-        <Item>
-          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
-          <ShortCut>'Ctrl+T'</ShortCut>
-          <Description>Update Project...</Description>
-          <Count>63</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="VCS Operations Popup...">
         <Item>
           <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
           <ShortCut>'Alt+`'</ShortCut>
           <Description>VCS Operations Popup...</Description>
           <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Version Control">
-        <Item>
-          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
-          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
-          <Description>Version Control</Description>
-          <Count>175</Count>
         </Item>
       </Statistic>
     </option>
@@ -585,6 +569,22 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
           <Count>1289</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>64</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>176</Count>
         </Item>
       </Statistic>
     </option>
