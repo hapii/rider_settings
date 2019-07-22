@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1026</Count>
+          <Count>1033</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -158,7 +158,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B'</ShortCut>
           <Description>Derived Symbols</Description>
-          <Count>157</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -182,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -238,7 +238,7 @@
           <IdeaActionID>JumpToStatement</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+F9'</ShortCut>
           <Description>Jump to Statement</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move to Another Changelist...">
@@ -470,7 +470,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>531</Count>
+          <Count>580</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
