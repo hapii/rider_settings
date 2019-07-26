@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1103</Count>
+          <Count>1106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -182,7 +182,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -470,7 +470,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>630</Count>
+          <Count>633</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
