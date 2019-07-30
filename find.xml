@@ -3,7 +3,6 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>*.csproj</mask>
     <mask>*.ts, *.scss</mask>
     <mask>*.ts, *.html, *.scss</mask>
     <mask>*.js, *.ts</mask>
@@ -33,5 +32,6 @@
     <mask>*.cs</mask>
     <mask>*.ts</mask>
     <mask>*.ts</mask>
+    <mask>!*.ts</mask>
   </component>
 </application>
