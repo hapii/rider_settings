@@ -422,7 +422,7 @@
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Intention Actions</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -470,7 +470,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>737</Count>
+          <Count>741</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
