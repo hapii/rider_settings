@@ -134,7 +134,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Services'</Description>
-          <Count>267</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -326,7 +326,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback...</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UI'</Description>
-          <Count>86</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -406,7 +406,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>192</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -446,7 +446,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'Ctrl+Shift+O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into">
@@ -502,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
