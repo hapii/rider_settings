@@ -62,7 +62,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1271</Count>
+          <Count>1272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ChangesView.Move</IdeaActionID>
           <ShortCut>'Alt+Shift+M'</ShortCut>
           <Description>Move to Another Changelist...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -326,7 +326,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Rollback...</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -406,7 +406,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>211</Count>
+          <Count>212</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
