@@ -70,7 +70,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare</Description>
-          <Count>69</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
