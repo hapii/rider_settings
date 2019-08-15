@@ -350,7 +350,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Services'</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'UI'">
@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'UI'</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
