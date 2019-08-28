@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1426</Count>
+          <Count>1431</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -430,7 +430,7 @@
           <IdeaActionID>ShowIntentionActions</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Show Intention Actions</Description>
-          <Count>21</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
